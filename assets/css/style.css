@@ -1,1 +1,43 @@
+#top-container{
+  background-color: #cb6f32;
+}
 
+#card-style, #body-style {
+  background-color: #fce5cf;
+  color: #589262;
+  margin:  10px 10px;
+}
+
+li{
+  margin: 10px 0;
+}
+
+#random-number{
+  background-color: #1fa397;
+  color: maroon;
+  margin: 5px 5px;
+  margin-left: 25px;
+}
+
+img {
+  width: 10%;
+  height: 120px !important;
+  margin: 10px 10px;
+}
+
+#score {
+  background-color: #1fa395;
+  margin: 10px 10px;
+  margin-left: 25px;
+}
+
+#score-box {
+  background-color: red;
+  height: 100px;
+  margin: 10px 10px;
+  margin-left: 25px;
+}
+
+body {
+  background-image: url("../images/City_Landscape_Background.jpg");
+}
